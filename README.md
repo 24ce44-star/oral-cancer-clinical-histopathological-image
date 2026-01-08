@@ -1,5 +1,6 @@
 # Oral-cancer-clinical+histopathological-image
 
+![image alt](https://github.com/24ce44-star/oral-cancer-clinical-histopathological-image/blob/bc551947a1bb390cd76a3b95eefbd9f6ffcb0052/Screenshot%202026-01-08%20152440.png)
 Oral Cancer Detection using ResNet-50
 Overview
 
