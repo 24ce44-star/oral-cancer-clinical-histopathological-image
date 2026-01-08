@@ -2,4 +2,3 @@ requirements_cnn.txt
 fixing.ipynb
 *.txt
 merging imaging for testing.py
-*.png
