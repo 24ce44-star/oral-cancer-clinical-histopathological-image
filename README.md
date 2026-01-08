@@ -6,12 +6,19 @@ Overview
 This project focuses on oral cancer detection using deep learning techniques applied to two types of medical images:
 
 Clinical oral images
+![image alt](https://github.com/24ce44-star/oral-cancer-clinical-histopathological-image/blob/1276094c60d2b9f126ea4ffa99c7f105cd52f39f/Screenshot%202026-01-08%20145911.png)
 
 Histopathological images
+![image alt](https://github.com/24ce44-star/oral-cancer-clinical-histopathological-image/blob/1276094c60d2b9f126ea4ffa99c7f105cd52f39f/Screenshot%202026-01-08%20152926.png)
 
 A ResNet-50 architecture is used as the backbone model to classify images into cancerous and non-cancerous categories.
 
 Due to file size limitations, trained model weights are not included in this repository. Instructions to download the model are provided below.
+
+# app.py overview
+![image alt](https://github.com/24ce44-star/oral-cancer-clinical-histopathological-image/blob/888d631d0ed0d253877af5ea00358a75c01cc17e/Screenshot%202026-01-08%20152440.png)
+
+
 
 Model Architecture
 
